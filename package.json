@@ -1,7 +1,7 @@
 {
   "name": "hapi-auth-basic-weeklydev-login",
   "description": "Basic authentication plugin fork from www.github.com/hapijs/hapi-auth-basic",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "repository": "git://github.com/thourum/hapi-auth-basic",
   "main": "lib/index.js",
   "keywords": [
